@@ -4,7 +4,6 @@ body {
     align-items: center;
     height: 100vh;
     flex-direction: column;
-    background-image: url(../Assets/Images/no_face.gif);
     background-size: cover;
     }
     
